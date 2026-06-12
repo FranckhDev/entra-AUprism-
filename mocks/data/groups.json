@@ -1,0 +1,50 @@
+[
+  {
+    "id": "g-001",
+    "displayName": "Sales EMEA - All Staff",
+    "description": "All staff members in the EMEA Sales organisation",
+    "groupType": "m365",
+    "memberCount": 4,
+    "members": [
+      { "id": "m-001", "displayName": "Alex Dubois", "email": "alex.dubois@contoso.com", "jobTitle": "Account Executive", "isInDepartment": true },
+      { "id": "m-002", "displayName": "Sarah Müller-Christiansen", "email": "sarah.mullerchristiansen@contoso.com", "jobTitle": "Senior Sales Manager", "isInDepartment": true },
+      { "id": "m-006", "displayName": "Isabelle Leclerc-Beaumont", "email": "isabelle.leclercbeaumont@contoso.com", "jobTitle": "Regional Sales Director", "isInDepartment": true },
+      { "id": "ext-001", "displayName": "Jordan Walsh", "email": "jordan.walsh@contoso.com", "jobTitle": "Global Sales VP", "isInDepartment": false }
+    ]
+  },
+  {
+    "id": "g-002",
+    "displayName": "EMEA Quota Carriers",
+    "description": "Team members with quota-bearing roles",
+    "groupType": "security",
+    "memberCount": 3,
+    "members": [
+      { "id": "m-001", "displayName": "Alex Dubois", "email": "alex.dubois@contoso.com", "jobTitle": "Account Executive", "isInDepartment": true },
+      { "id": "m-004", "displayName": "Clara Fernández", "email": "clara.fernandez@contoso.com", "jobTitle": "Business Development Representative", "isInDepartment": true },
+      { "id": "m-011", "displayName": "Fatima Al-Hassan", "email": "fatima.alhassan@contoso.com", "jobTitle": "Enterprise Account Executive", "isInDepartment": true }
+    ]
+  },
+  {
+    "id": "g-003",
+    "displayName": "Paris HQ - EMEA Sales",
+    "description": "Sales team members based at the Paris headquarters",
+    "groupType": "security",
+    "memberCount": 3,
+    "members": [
+      { "id": "m-001", "displayName": "Alex Dubois", "email": "alex.dubois@contoso.com", "jobTitle": "Account Executive", "isInDepartment": true },
+      { "id": "m-006", "displayName": "Isabelle Leclerc-Beaumont", "email": "isabelle.leclercbeaumont@contoso.com", "jobTitle": "Regional Sales Director", "isInDepartment": true },
+      { "id": "m-013", "displayName": "Yuki Tanaka-Whitfield", "email": "yuki.tanakawhitfield@contoso.com", "jobTitle": "Sales Coordinator", "isInDepartment": true }
+    ]
+  },
+  {
+    "id": "g-004",
+    "displayName": "CRM Power Users",
+    "description": "Users with elevated CRM permissions and admin access",
+    "groupType": "security",
+    "memberCount": 2,
+    "members": [
+      { "id": "m-017", "displayName": "Priya Rajan", "email": "priya.rajan@contoso.com", "jobTitle": "CRM Administrator", "isInDepartment": true },
+      { "id": "ext-002", "displayName": "Sam Chen", "email": "sam.chen@contoso.com", "jobTitle": "IT Systems Manager", "isInDepartment": false }
+    ]
+  }
+]

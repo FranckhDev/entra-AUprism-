@@ -1,0 +1,110 @@
+[
+  {
+    "id": "m-001", "displayName": "Alex Dubois", "firstName": "Alex", "lastName": "Dubois",
+    "jobTitle": "Account Executive", "email": "alex.dubois@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "Paris HQ", "city": "Paris", "country": "France",
+    "isActive": true
+  },
+  {
+    "id": "m-002", "displayName": "Sarah Müller-Christiansen", "firstName": "Sarah", "lastName": "Müller-Christiansen",
+    "jobTitle": "Senior Sales Manager", "email": "sarah.mullerchristiansen@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "Berlin Office", "city": "Berlin", "country": "Germany",
+    "isActive": true
+  },
+  {
+    "id": "m-003", "displayName": "James Okafor", "firstName": "James", "lastName": "Okafor",
+    "jobTitle": "Sales Analyst", "email": "james.okafor@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "London Office", "city": "London", "country": "United Kingdom",
+    "isActive": false
+  },
+  {
+    "id": "m-004", "displayName": "Clara Fernández", "firstName": "Clara", "lastName": "Fernández",
+    "jobTitle": "Business Development Representative", "email": "clara.fernandez@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "Madrid Office", "city": "Madrid", "country": "Spain",
+    "isActive": true
+  },
+  {
+    "id": "m-005", "displayName": "Tomás Novák", "firstName": "Tomás", "lastName": "Novák",
+    "jobTitle": "Account Manager", "email": "tomas.novak@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "Prague Office", "city": "Prague", "country": "Czech Republic",
+    "isActive": true
+  },
+  {
+    "id": "m-006", "displayName": "Isabelle Leclerc-Beaumont", "firstName": "Isabelle", "lastName": "Leclerc-Beaumont",
+    "jobTitle": "Regional Sales Director", "email": "isabelle.leclercbeaumont@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "Paris HQ", "city": "Paris", "country": "France",
+    "isActive": true
+  },
+  {
+    "id": "m-007", "displayName": "Kwame Asante", "firstName": "Kwame", "lastName": "Asante",
+    "jobTitle": "Sales Operations Specialist", "email": "kwame.asante@contoso.com",
+    "department": "Sales EMEA", "city": "Amsterdam", "country": "Netherlands",
+    "isActive": false
+  },
+  {
+    "id": "m-008", "displayName": "Nina Petrova", "firstName": "Nina", "lastName": "Petrova",
+    "jobTitle": "Inside Sales Representative", "email": "nina.petrova@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "Warsaw Office", "city": "Warsaw", "country": "Poland",
+    "isActive": true
+  },
+  {
+    "id": "m-009", "displayName": "Luca Ricci", "firstName": "Luca", "lastName": "Ricci",
+    "email": "luca.ricci@contoso.com",
+    "department": "Sales EMEA", "city": "Milan", "country": "Italy",
+    "isActive": true
+  },
+  {
+    "id": "m-010", "displayName": "Emma van der Berg", "firstName": "Emma", "lastName": "van der Berg",
+    "jobTitle": "Sales Enablement Manager", "email": "emma.vanderberg@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "Amsterdam Office", "city": "Amsterdam", "country": "Netherlands",
+    "isActive": true
+  },
+  {
+    "id": "m-011", "displayName": "Fatima Al-Hassan", "firstName": "Fatima", "lastName": "Al-Hassan",
+    "jobTitle": "Enterprise Account Executive", "email": "fatima.alhassan@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "Dubai Office", "city": "Dubai", "country": "UAE",
+    "isActive": true
+  },
+  {
+    "id": "m-012", "displayName": "Mikhail Volkov", "firstName": "Mikhail", "lastName": "Volkov",
+    "jobTitle": "Channel Sales Manager", "email": "mikhail.volkov@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "Stockholm Office", "city": "Stockholm", "country": "Sweden",
+    "isActive": false
+  },
+  {
+    "id": "m-013", "displayName": "Yuki Tanaka-Whitfield", "firstName": "Yuki", "lastName": "Tanaka-Whitfield",
+    "jobTitle": "Sales Coordinator", "email": "yuki.tanakawhitfield@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "Paris HQ", "city": "Paris", "country": "France",
+    "isActive": true
+  },
+  {
+    "id": "m-014", "displayName": "Andrés García-López", "firstName": "Andrés", "lastName": "García-López",
+    "jobTitle": "Pre-Sales Engineer", "email": "andres.garcialopez@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "Barcelona Office", "city": "Barcelona", "country": "Spain",
+    "isActive": true
+  },
+  {
+    "id": "m-015", "displayName": "Chloé Dupont", "firstName": "Chloé", "lastName": "Dupont",
+    "jobTitle": "Key Account Manager", "email": "chloe.dupont@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "Lyon Office", "city": "Lyon", "country": "France",
+    "isActive": true
+  },
+  {
+    "id": "m-016", "displayName": "Björn Lindström", "firstName": "Björn", "lastName": "Lindström",
+    "jobTitle": "Sales Trainer", "email": "bjorn.lindstrom@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "Stockholm Office", "city": "Stockholm", "country": "Sweden",
+    "isActive": true
+  },
+  {
+    "id": "m-017", "displayName": "Priya Rajan", "firstName": "Priya", "lastName": "Rajan",
+    "jobTitle": "CRM Administrator", "email": "priya.rajan@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "London Office", "city": "London", "country": "United Kingdom",
+    "isActive": true
+  },
+  {
+    "id": "m-018", "displayName": "Marco De Santis", "firstName": "Marco", "lastName": "De Santis",
+    "jobTitle": "Territory Sales Manager", "email": "marco.desantis@contoso.com",
+    "department": "Sales EMEA", "officeLocation": "Rome Office", "city": "Rome", "country": "Italy",
+    "isActive": true
+  }
+]

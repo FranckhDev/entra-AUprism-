@@ -1,0 +1,42 @@
+[
+  {
+    "id": "d-001", "name": "LAPTOP-ADUBOIS-01", "operatingSystem": "Windows", "osVersion": "11",
+    "isEnabled": true, "lastSeen": "2026-06-12T08:30:00Z", "deviceId": "dev-aad-001"
+  },
+  {
+    "id": "d-002", "name": "MACBOOK-SMULLER", "operatingSystem": "macOS", "osVersion": "15.2",
+    "isEnabled": true, "lastSeen": "2026-06-11T17:45:00Z", "deviceId": "dev-aad-002"
+  },
+  {
+    "id": "d-003", "name": "LAPTOP-JOKAFOR-01", "operatingSystem": "Windows", "osVersion": "11",
+    "isEnabled": false, "lastSeen": "2026-04-03T09:15:00Z", "deviceId": "dev-aad-003"
+  },
+  {
+    "id": "d-004", "name": "LAPTOP-CFERNANDEZ", "operatingSystem": "Windows", "osVersion": "10",
+    "isEnabled": true, "lastSeen": "2026-06-12T11:20:00Z", "deviceId": "dev-aad-004"
+  },
+  {
+    "id": "d-005", "name": "MACBOOK-TNOVAK", "operatingSystem": "macOS", "osVersion": "14.7",
+    "isEnabled": true, "lastSeen": "2026-06-10T16:00:00Z", "deviceId": "dev-aad-005"
+  },
+  {
+    "id": "d-006", "name": "LAPTOP-ILECLERC-01", "operatingSystem": "Windows", "osVersion": "11",
+    "isEnabled": true, "lastSeen": "2026-06-12T09:05:00Z", "deviceId": "dev-aad-006"
+  },
+  {
+    "id": "d-007", "name": "MACBOOK-NPETROVA", "operatingSystem": "macOS", "osVersion": "15.2",
+    "isEnabled": true, "lastSeen": "2026-06-09T14:30:00Z", "deviceId": "dev-aad-007"
+  },
+  {
+    "id": "d-008", "name": "LAPTOP-FALHASSAN", "operatingSystem": "Windows", "osVersion": "11",
+    "isEnabled": true, "lastSeen": "2026-06-12T07:55:00Z", "deviceId": "dev-aad-008"
+  },
+  {
+    "id": "d-009", "name": "LAPTOP-MVOLKOV-OLD", "operatingSystem": "Windows", "osVersion": "10",
+    "isEnabled": false, "lastSeen": "2025-11-15T10:00:00Z", "deviceId": "dev-aad-009"
+  },
+  {
+    "id": "d-010", "name": "MACBOOK-PRAJAN", "operatingSystem": "macOS", "osVersion": "15.2",
+    "isEnabled": true, "lastSeen": "2026-06-12T10:10:00Z", "deviceId": "dev-aad-010"
+  }
+]
