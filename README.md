@@ -2,6 +2,9 @@
 
 > A business-friendly admin portal scoped to Microsoft Entra Administrative Units.
 
+> [!WARNING]
+> **Work in progress — mock UI only.** The current version (Phase 1) runs entirely on local mock data with no connection to Microsoft Entra or Microsoft Graph. It is intended for UI validation and design feedback only. Phase 2 will wire in real Graph API calls and MSAL authentication.
+
 ---
 
 ## The Problem
